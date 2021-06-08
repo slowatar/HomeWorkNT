@@ -1,0 +1,13 @@
+[t199]
+FileName1=t199.html
+URL1=http://yandex.ocsp-responder.com/
+Total=2
+RequestHeaderFile=t199_RequestHeader.txt
+RequestBodyFile=t199_RequestBody.txt
+ResponseHeaderFile=t199_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_199.xml
+FileName2=t199_abjs.html
+URL2=https://light.mail.ru/cgi-bin/abjs?id=uwWFqf2D&r=3801944619&token=1864949961157386927221945105573881011289:5b5d465f7163537b19050a010d0a050c0b020202000e040d030f060606000000040200090c0d0603090f04070400060f00105146516d4409
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,17 @@
+[t46]
+FileName1=t46.html
+URL1=http://detectportal.firefox.com/canonical.html
+Total=4
+RequestHeaderFile=t46_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t46_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_46.xml
+FileName2=t46_normandy.content-signature.mozilla.org-2021-07-21-15-12-51.html
+URL2=https://content-signature-2.cdn.mozilla.net/chains/normandy.content-signature.mozilla.org-2021-07-21-15-12-51.chain?cachebust=2017-06-13-21-06
+FileName3=t46_success.txt
+URL3=http://detectportal.firefox.com/success.txt?ipv4
+FileName4=t46_check_c_two.html
+URL4=https://img.imgsmail.ru/check_c_two.js?_=0.8012036307006807
+[ProtocolInfo]
+ProtocolId=QTWeb

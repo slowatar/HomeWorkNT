@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 598
+Connection: keep-alive
+Server: nginx
+Date: Fri, 04 Jun 2021 07:11:40 GMT
+Cache-Control: public, max-age=30
+Allow: GET, HEAD, OPTIONS
+Content-Security-Policy: object-src 'none'; base-uri 'none'; worker-src 'none'; form-action 'self'; default-src 'self' https://normandy.cdn.mozilla.net/; block-all-mixed-content; frame-src 'none'; report-uri /__cspreport__
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google, 1.1 75db592bac77e8a29aaf9f30658e363d.cloudfront.net (CloudFront)
+Vary: Accept,Origin
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: HEL50-C1
+X-Amz-Cf-Id: w8RNU87NzCPK2U6bftjouNenxAVy6Xc_47Y_EHOo5FaPKowf2QyStw==
+Age: 1
+

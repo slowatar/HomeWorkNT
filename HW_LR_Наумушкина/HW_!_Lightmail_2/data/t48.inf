@@ -1,0 +1,13 @@
+[t48]
+FileName1=t48.gif
+URL1=https://account.mail.ru/api/v1/utils/xray/batch?p=thirdpty&split=s10273.b1s&pgid=kphzomr6.4ys
+Total=1
+RequestHeaderFile=t48_RequestHeader.txt
+RequestBodyFile=t48_RequestBody.txt
+ResponseHeaderFile=t48_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_48.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

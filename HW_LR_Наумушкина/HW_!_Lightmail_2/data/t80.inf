@@ -1,0 +1,13 @@
+[t80]
+FileName1=t80.html
+URL1=http://status.geotrust.com/
+Total=2
+RequestHeaderFile=t80_RequestHeader.txt
+RequestBodyFile=t80_RequestBody.txt
+ResponseHeaderFile=t80_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_80.xml
+FileName2=t80.gif
+URL2=https://www.tns-counter.ru/V13b****mail_ru/ru/UTF-8/tmsec=mail_win/
+[ProtocolInfo]
+ProtocolId=QTWeb

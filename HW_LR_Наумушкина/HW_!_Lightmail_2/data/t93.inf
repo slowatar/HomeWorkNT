@@ -1,0 +1,11 @@
+[t93]
+FileName1=t93.json
+URL1=https://an.yandex.ru/jstracer?pcode_native=14875&values=performance&adb=false&verison=14875&bundle_version=14875&widget_pf=no
+Total=1
+RequestHeaderFile=t93_RequestHeader.txt
+RequestBodyFile=t93_RequestBody.txt
+ResponseHeaderFile=t93_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_93.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

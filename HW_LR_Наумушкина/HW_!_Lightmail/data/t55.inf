@@ -1,0 +1,11 @@
+[t55]
+FileName1=t55_NaviData.json
+URL1=https://portal.mail.ru/NaviData?mac=1&gamescnt=1&Socials=1&rnd=1622700197212
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_55.xml
+RequestHeaderFile=t55_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t55_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

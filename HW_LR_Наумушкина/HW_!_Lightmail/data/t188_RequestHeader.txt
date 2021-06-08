@@ -1,0 +1,12 @@
+POST /jstracer?pcode_native=14870&values=performance&adb=false&verison=14870&bundle_version=14870&widget_pf=no HTTP/1.1
+Host: an.yandex.ru
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 884
+Origin: https://light.mail.ru
+Connection: keep-alive
+Referer: https://light.mail.ru/
+

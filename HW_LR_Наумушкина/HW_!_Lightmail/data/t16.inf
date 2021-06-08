@@ -1,0 +1,15 @@
+[t16]
+FileName1=t16_changeset.json
+URL1=https://firefox.settings.services.mozilla.com/v1/buckets/blocklists/collections/addons-bloomfilters/changeset?_expected=1622680686149&_since=%221622637480939%22
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_16.xml
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t16_ResponseHeader.txt
+FileName2=t16_d26047874.gif
+URL2=https://rs.mail.ru/d26047874.gif?sz=49&rnd=876875934&ts=1622700123&sz=49
+FileName3=t16_favicon.ico
+URL3=https://img.imgsmail.ru/r/favicon/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

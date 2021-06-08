@@ -1,0 +1,13 @@
+[t72]
+FileName1=t72.gif
+URL1=https://top-fwz1.mail.ru/counter?js=13;id=2035946;u=https%3A//light.mail.ru/compose/%3Ffolder%3D0;r=https%3A//light.mail.ru/messages/inbox%3Fauthid%3Dkpghr7yf.98k%26dwhsplit%3Ds10273.b1s%26from%3Dlogin;st=1622700260560;s=1920*1080;vp=1903*976;touch=0;hds=1;flash=;sid=69a44f72fd7e30be;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;lvid=1622531536446%3A1622700260822%3A149%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.5988929332476653
+Total=1
+RequestHeaderFile=t72_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t72_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_72.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

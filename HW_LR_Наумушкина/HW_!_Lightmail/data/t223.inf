@@ -1,0 +1,17 @@
+[t223]
+FileName1=t223.gif
+URL1=https://top-fwz1.mail.ru/tracker?js=13;id=3210335;u=https%3A//light.mail.ru/compose/%3Ffolder%3D0;r=https%3A//light.mail.ru/messages/inbox%3Fauthid%3Dkpgj5prz.fko%26dwhsplit%3Ds10273.b1s%26from%3Dlogin;st=1622702564017;userid=test_nt_1@mail.ru;s=1920*1080;vp=1903*976;touch=0;hds=1;flash=;sid=94835849e3d5524e;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;detect=0;lvid=1622531536446%3A1622702597772%3A214%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.2644536490568491;e=PVT/15
+Total=3
+RequestHeaderFile=t223_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t223_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_223.xml
+FileName2=t223_update.gif
+URL2=https://xray.mail.ru/update?p=light&t=adman&i=s-898102_b-trg-multi_draw:1,s-898102_draw:1&v=1&email=test_nt_1@mail.ru&rnd=0.9270046936120938
+FileName3=t223_update.gif
+URL3=https://xray.mail.ru/update?p=light&t=adman&i=s-898102_b-trg-multi_vis-1:1,s-898102_vis-1:1&v=1&email=test_nt_1@mail.ru&rnd=0.6689657868562449
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t217]
+FileName1=t217.html
+URL1=https://cspreport.mail.ru/?v=1.0.1
+Total=1
+RequestHeaderFile=t217_RequestHeader.txt
+RequestBodyFile=t217_RequestBody.txt
+ResponseHeaderFile=t217_ResponseHeader.txt
+ContentType=application/octet-stream
+SnapshotXmlFile=snapshot_217.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

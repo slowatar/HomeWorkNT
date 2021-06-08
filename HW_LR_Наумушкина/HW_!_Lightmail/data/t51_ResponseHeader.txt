@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 1670
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Backoff, Content-Length, Content-Type, Retry-After, Alert
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; base-uri 'none';
+Date: Thu, 03 Jun 2021 05:35:24 GMT
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Cache: Hit from cloudfront
+Via: 1.1 ade5112c66aed0b9382e1d5c2fd9bde4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: HEL50-C1
+X-Amz-Cf-Id: KpdSCICRj3XU3snzutpn2fh9NS7wggtj0FeFPrFq1SWYKBsuWbbleA==
+Age: 1657
+

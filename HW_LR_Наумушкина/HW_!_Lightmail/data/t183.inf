@@ -1,0 +1,11 @@
+[t183]
+FileName1=t183.html
+URL1=http://status.geotrust.com/
+Total=1
+RequestHeaderFile=t183_RequestHeader.txt
+RequestBodyFile=t183_RequestBody.txt
+ResponseHeaderFile=t183_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_183.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

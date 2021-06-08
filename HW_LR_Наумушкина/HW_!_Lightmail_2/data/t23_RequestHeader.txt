@@ -1,0 +1,12 @@
+POST /submit/messaging-system/whats-new-panel/1/1e4f7d9b-70dc-4b58-9ef0-b7223f52150a HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Content-Encoding: gzip
+Date: Fri, 04 Jun 2021 07:11:26 GMT
+Content-Length: 231
+Connection: keep-alive
+

@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: nginx/1.17.9
+Date: Thu, 03 Jun 2021 06:01:24 GMT
+Content-Type: text/xml; charset=utf-8
+Vary: Accept-Encoding
+Rule-ID: 17581
+Rule-Data-Version: 12
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: EXPIRED
+Content-Encoding: gzip
+Via: 1.1 google
+Content-Length: 446
+Age: 54
+Cache-Control: public, max-age=90
+Alt-Svc: clear
+

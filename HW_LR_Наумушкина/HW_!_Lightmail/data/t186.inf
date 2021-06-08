@@ -1,0 +1,15 @@
+[t186]
+FileName1=t186.html
+URL1=http://yandex.ocsp-responder.com/
+Total=3
+RequestHeaderFile=t186_RequestHeader.txt
+RequestBodyFile=t186_RequestBody.txt
+ResponseHeaderFile=t186_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_186.xml
+FileName2=t186_update.gif
+URL2=https://xray.mail.ru/update?p=light&t=adman&i=s-898208_render:1&v=1&email=test_nt_1@mail.ru&rnd=0.9262212510578253
+FileName3=t186_update.gif
+URL3=https://xray.mail.ru/update?p=light&t=adman&i=s-898102_complete:1&v=1&email=test_nt_1@mail.ru&rnd=0.790419158014971
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t59]
+FileName1=t59.json
+URL1=https://account.mail.ru/api/v1/auth/qr/init?login=test_nt_1@mail.ru&page=https%3A%2F%2Faccount.mail.ru%2Flogin%3Fpage%3Dhttps%253A%252F%252Flight.mail.ru%252Fmessages%252Finbox%26allow_external%3D1&redirect=https%3A%2F%2Flight.mail.ru%2Fmessages%2Finbox%3Fauthid%3Dkpghr7yf.98k%26dwhsplit%3Ds10273.b1s%26from%3Dlogin&source=polling
+Total=1
+RequestHeaderFile=t59_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t59_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_59.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

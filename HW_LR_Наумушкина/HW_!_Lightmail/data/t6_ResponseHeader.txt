@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 03 Jun 2021 06:02:03 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Mru-Request-Id: 43e1976b
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Wed, 03 Jun 2020 06:02:03 GMT
+X-Mru-Sota-Response: 1
+X-Host: fau35.m.smailru.net
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-XSS-Protection: 1; mode=block; report=https://cspreport.mail.ru/xxssprotection
+Content-Security-Policy: default-src 'none'; base-uri 'none'; script-src 'self' 'nonce-65391a8119e0d46dc3b82cd88c287c88' https://img.imgsmail.ru https://portal.mail.ru https://portal.test.mail.ru https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://top-fwz1.mail.ru 'report-sample'; style-src 'self' https://img.imgsmail.ru 'unsafe-inline'; font-src https://img.imgsmail.ru; img-src 'self' data: https://img.imgsmail.ru https://stat.radar.imgsmail.ru https://xray.mail.ru https://rs.mail.ru https://www.tns-counter.ru https://top-fwz1.mail.ru https://filin.mail.ru https://r.mradx.net https://ad.mail.ru https://r3.mail.ru https://c.mail.ru https://c.my.com https://*.userapi.com https://*.vk.com https://vk.com; connect-src 'self' https://portal.mail.ru https://auth.mail.ru https://*.auth.mail.ru https://aj-https.my.com https://account.mail.ru https://*.test.mail.ru https://login.vk.com wss://rebus.e.mail.ru https://ok.ru https://bar.love.mail.ru https://vk.com; child-src https://account.mail.ru https://*.test.mail.ru https://www.google.com/recaptcha/ https://auth.mail.ru; report-uri https://cspreport.mail.ru/login;
+X-Frame-Options: DENY
+X-Host: fau35.m.smailru.net
+Strict-Transport-Security: max-age=15768000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Vary: Referer
+Content-Encoding: gzip
+

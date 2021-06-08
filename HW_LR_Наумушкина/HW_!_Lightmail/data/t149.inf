@@ -1,0 +1,13 @@
+[t149]
+FileName1=t149_NaviData.json
+URL1=https://portal.mail.ru/NaviData?mac=1&gamescnt=1&Socials=1&rnd=1622702478831
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_149.xml
+RequestHeaderFile=t149_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t149_ResponseHeader.txt
+FileName2=t149_update.gif
+URL2=https://stat.radar.imgsmail.ru/update?p=login&t=bundles_loadend&v=1&i=async:1
+[ProtocolInfo]
+ProtocolId=QTWeb

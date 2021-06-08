@@ -1,0 +1,13 @@
+[t81]
+FileName1=t81.html
+URL1=http://yandex.ocsp-responder.com/
+Total=2
+RequestHeaderFile=t81_RequestHeader.txt
+RequestBodyFile=t81_RequestBody.txt
+ResponseHeaderFile=t81_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_81.xml
+FileName2=t81_14241a8dc95f55b19da3.html
+URL2=https://yastatic.net/partner-code-bundles/14870/14241a8dc95f55b19da3.js
+[ProtocolInfo]
+ProtocolId=QTWeb

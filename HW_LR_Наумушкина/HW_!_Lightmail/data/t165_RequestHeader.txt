@@ -1,0 +1,12 @@
+POST /submit/telemetry/699d92f8-f995-499b-bd9b-f12f9c25e565/main/Firefox/88.0.1/release/20210504152106?v=4 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Date: Thu, 03 Jun 2021 06:41:51 GMT
+Content-Encoding: gzip
+Content-Length: 22573
+Connection: keep-alive
+

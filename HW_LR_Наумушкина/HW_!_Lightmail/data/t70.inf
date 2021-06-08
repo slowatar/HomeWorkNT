@@ -1,0 +1,13 @@
+[t70]
+FileName1=t70.html
+URL1=http://r3.o.lencr.org/
+Total=2
+RequestHeaderFile=t70_RequestHeader.txt
+RequestBodyFile=t70_RequestBody.txt
+ResponseHeaderFile=t70_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_70.xml
+FileName2=t70_update.gif
+URL2=https://xray.mail.ru/update?p=light&t=adman&i=s-898102_call:1&v=1&email=test_nt_1@mail.ru&rnd=0.4461976010892593
+[ProtocolInfo]
+ProtocolId=QTWeb

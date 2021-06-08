@@ -1,0 +1,13 @@
+[t78]
+FileName1=t78.html
+URL1=http://yandex.ocsp-responder.com/
+Total=2
+RequestHeaderFile=t78_RequestHeader.txt
+RequestBodyFile=t78_RequestBody.txt
+ResponseHeaderFile=t78_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_78.xml
+FileName2=t78_VoYrB_qWZBK302G6U_4amXAUvpC508m0488WCPTsrL400000O9WBSFJqW908a042m042s06AXnte0O01y0ACkfAo1h030hi-4Mkr5qq5gGU6her73VSAJj070jWLmOhsxAEFlFnZWHVmF_WOW1a502u5uon41J7yysJE58Cr32W0~1,an.mail.gif
+URL2=https://an.mail.ru/count/VoYrB_qWZBK302G6U_4amXAUvpC508m0488WCPTsrL400000O9WBSFJqW908a042m042s06AXnte0O01y0ACkfAo1h030hi-4Mkr5qq5gGU6her73VSAJj070jWLmOhsxAEFlFnZWHVmF_WOW1a502u5uon41J7yysJE58Cr32W0~1,an.mail.ru,2383026761622531533,1884953300
+[ProtocolInfo]
+ProtocolId=QTWeb

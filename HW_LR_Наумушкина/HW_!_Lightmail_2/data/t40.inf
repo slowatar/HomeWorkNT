@@ -1,0 +1,13 @@
+[t40]
+FileName1=t40.json
+URL1=https://account.mail.ru/api/v1/auth/qr/polling?token=AG_Y92n7jRyW5HJskfwd4KCS&sign=4250a1yYs1wTOg1Oo4jr-7VHUQuSuaANdsEA5rv7De8U0aeNHDcL_A-NlBA8ChC3zFDaxmGrt_o-HwjO8ZIdhz4=
+Total=2
+RequestHeaderFile=t40_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t40_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_40.xml
+FileName2=t40_set_c.html
+URL2=https://img.imgsmail.ru/set_c.js?_=0.048312653677770157
+[ProtocolInfo]
+ProtocolId=QTWeb

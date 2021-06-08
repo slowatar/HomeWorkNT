@@ -1,0 +1,13 @@
+[t84]
+FileName1=t84.gif
+URL1=https://top-fwz1.mail.ru/tracker?js=13;id=3123969;u=https%3A//light.mail.ru/message/16227902031523885733/%3Ffolder%3D0;r=https%3A//light.mail.ru/messages/inbox%3Fauthid%3Dkphzomki.nah%26dwhsplit%3Ds10273.b1s%26from%3Dlogin;st=1622790795431;s=1920*1080;vp=1903*965;touch=0;hds=1;flash=;sid=3f275d043ba7c53a;ver=60.3.0;tz=-180%2FEurope%2FMoscow;nt=0/0/1622790774333/////-1/46/47/15516/20344/20167/20346/20360/20680/20716/21098/21154/21174/41311/41311/;ni=;detect=0;lvid=1622531536446%3A1622790815656%3A317%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.9268513875611402;e=RT/load;et=1622790815646
+Total=1
+RequestHeaderFile=t84_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t84_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_84.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

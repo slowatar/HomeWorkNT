@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Thu, 03 Jun 2021 06:02:58 GMT
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: keep-alive
+Cache-Control: public, no-transform, must-revalidate, s-maxage=3600
+CF-Cache-Status: EXPIRED
+Accept-Ranges: bytes
+cf-request-id: 0a7210d22700007903438fa000000001
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 6596b7303b617903-DME
+

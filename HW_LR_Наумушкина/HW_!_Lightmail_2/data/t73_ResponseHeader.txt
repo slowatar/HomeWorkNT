@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 471
+Connection: keep-alive
+Accept-Ranges: bytes
+Cache-Control: max-age=117330
+Date: Fri, 04 Jun 2021 07:13:09 GMT
+Etag: "60b8f9d7-1d7"
+Expires: Sat, 05 Jun 2021 15:48:39 GMT
+Last-Modified: Thu, 03 Jun 2021 15:48:39 GMT
+Server: nginx
+X-Cache: Miss from cloudfront
+Via: 1.1 c418ea866520d52fb3d0a50002762664.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: HEL50-C2
+X-Amz-Cf-Id: 884j6feplBaZBWkMvVYNWVepjxFL69a-JbiS3C8uGy3Lw2Tg7MY56Q==
+

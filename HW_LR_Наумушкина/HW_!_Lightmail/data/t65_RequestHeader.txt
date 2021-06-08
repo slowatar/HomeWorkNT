@@ -1,0 +1,14 @@
+POST /cgi-bin/auth HTTP/1.1
+Host: auth.mail.ru
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 351
+Origin: https://account.mail.ru
+Connection: keep-alive
+Referer: https://account.mail.ru/
+Cookie: mrcu=CE2D60B5DDCF61BFBB5A1324FC6D; p=Do8AACWvkQAA; i=AQBqcLhgAwATAAgEAXseAb0HCAQBghUBiQ0FAgH+; s=ww=1920|wh=976|fver=0|octavius=1; tmr_reqNum=147; tmr_lvid=80978b2cdef2874c0abc9091fc38bf0c; tmr_lvidTS=1622531536446; b=WkkRAKDlQBUAp72KCgEAABivW0ga96OFEYkt0REPp28U4/43CbG9ihIXvooKv72KCsnukwozAAAYV+usCxVSiwxJn1MMj+LyClmkUwwA; VID=2vLEvU2oV6o200000U0yD4o2:::5d03eaa-0-0-5d03690:CAASEBwKDeJxgRDD0UjU86nKxeIaYHHbOXqyPLXmA8zGRnt3Hw0mJmMPczvhcQ5hbEC1QzT-9EafFKx9R4_6sER_woRQHScZ2TLT92CqU8InxNcgqS8sdd-Nc1OR5SaHawgp1LhuLxtb7XGPo2agnb07lZFvig; searchuid=2383026761622531533; c=/+a1YAMAEHsTAAAkAAAAM83VeaFcAgAI; GarageID=1cce872166ff447fb6c39cd55f703c10; ssdc_info=db45:0:1622533572; t=obLD1AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAYDzAcA; Mpop=1619765304:7f02727b047855001905000017031f051c054f6c5150445e05190401041d455c43436e574d6700115c565c5b1b4341:test_nt_1@mail.ru:; ssdc=db450d1c1526449291396b6aa3387a08; act=c77fa60f3557454490420b99e6d05952
+Upgrade-Insecure-Requests: 1
+

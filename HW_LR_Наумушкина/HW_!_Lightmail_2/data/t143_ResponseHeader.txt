@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Jun 2021 07:14:51 GMT
+Content-Type: image/gif
+Content-Length: 43
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: VID=2vLEvU2oV6o200000U0yD4o2:::5d42b1e-0-0-5d03690:CAASEME9BnvGhl8H112PFZJ_LZcaYCuhEX_BroCgBZA1qu2VSwNLYmHLAMmOA5UXLvdLwlyWGSwsIj-eYAMeBkPIkreliyjBwpzr4XuX7tPES1ZngMPpVpPHEwrpEUeOC6bAO2adOHKV2C2QIqIxexskhDy7jA; path=/; expires=Sun, 05-Jun-22 07:14:51 GMT; domain=.mail.ru; HttpOnly; SameSite=None; Secure
+Access-Control-Allow-Origin: https://light.mail.ru
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, HEAD, PUT, OPTIONS
+Access-Control-Allow-Headers: *
+AMP-Access-Control-Allow-Source-Origin: https://light.mail.ru
+Access-Control-Expose-Headers: AMP-Access-Control-Allow-Source-Origin
+Timing-Allow-Origin: https://light.mail.ru
+X-Content-Type-Options: nosniff
+P3P: CP="NOI DSP COR NID CUR PSA OUR NOR"
+Cache-Control: private, no-cache, no-store, max-age=0
+Pragma: no-cache
+Accept-CH: DPR, Width, Viewport-Width, Downlink, Device-Memory
+Accept-CH-Lifetime: 86400
+

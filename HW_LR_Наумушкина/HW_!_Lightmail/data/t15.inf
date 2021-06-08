@@ -1,0 +1,13 @@
+[t15]
+FileName1=t15.html
+URL1=http://status.geotrust.com/
+Total=2
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=t15_RequestBody.txt
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_15.xml
+FileName2=t15_login.css
+URL2=https://img.imgsmail.ru/pkgs/login.mail.ru/22914/css/login.css
+[ProtocolInfo]
+ProtocolId=QTWeb

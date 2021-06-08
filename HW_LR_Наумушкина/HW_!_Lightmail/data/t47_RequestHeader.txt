@@ -1,0 +1,10 @@
+GET /?act=connect&app_id=7539952&response_type=silent_token&uuid=EVN_83_BN0NEPpT3Kwn_f&v=0.0.2 HTTP/1.1
+Host: login.vk.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Origin: https://account.mail.ru
+Connection: keep-alive
+Referer: https://account.mail.ru/
+

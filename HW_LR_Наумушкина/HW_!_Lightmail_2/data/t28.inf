@@ -1,0 +1,17 @@
+[t28]
+FileName1=t28.gif
+URL1=https://account.mail.ru/api/v1/utils/xray/batch?p=login&split=s10273.b1s&pgid=kphzomr6.4ys
+Total=3
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=t28_RequestBody.txt
+ResponseHeaderFile=t28_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_28.xml
+FileName2=t28_AAC_8AHmSa5O8Wsbz-W_zMROeaP_-EpIfBNiKH52KH0I1NDFLu_81I-DPmZvXzFEMWo03k6jY8ZdefKAg2VlgJCCZxnQwDEKO9NdSujFJdGT-VMLKfXnb4XgWIF_rP3t0jJmgoojvNBOxIVPSb6xraov73nHiZ7ouQiD-t_19NG7Jc6DZwWZewQwAAAAt-gczRynGRsKtzmGW8IQTiO5gLjVfyrheUU06YOkyKoFrLZwAohyqrLKVFGGAI-Q.gif
+URL2=https://rs.mail.ru/pixel/AAC_8AHmSa5O8Wsbz-W_zMROeaP_-EpIfBNiKH52KH0I1NDFLu_81I-DPmZvXzFEMWo03k6jY8ZdefKAg2VlgJCCZxnQwDEKO9NdSujFJdGT-VMLKfXnb4XgWIF_rP3t0jJmgoojvNBOxIVPSb6xraov73nHiZ7ouQiD-t_19NG7Jc6DZwWZewQwAAAAt-gczRynGRsKtzmGW8IQTiO5gLjVfyrheUU06YOkyKoFrLZwAohyqrLKVFGGAI-Q.gif
+FileName3=t28_d80556828.gif
+URL3=https://rs.mail.ru/d80556828.gif?&rnd=758131051
+[ProtocolInfo]
+ProtocolId=QTWeb

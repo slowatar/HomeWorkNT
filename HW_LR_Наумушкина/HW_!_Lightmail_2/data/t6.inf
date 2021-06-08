@@ -1,0 +1,13 @@
+[t6]
+FileName1=t6.html
+URL1=http://ocsp.digicert.com/
+Total=2
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=t6_RequestBody.txt
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6_success.txt
+URL2=http://detectportal.firefox.com/success.txt?ipv4
+[ProtocolInfo]
+ProtocolId=QTWeb

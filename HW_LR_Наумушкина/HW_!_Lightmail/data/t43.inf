@@ -1,0 +1,13 @@
+[t43]
+FileName1=t43.json
+URL1=https://account.mail.ru/api/v1/auth/qr/polling?token=AG_1PTMFriJb64VkwfRjKGh0&sign=Paode67thFZPJIAKD-RixpJrLj_ju_a4tXRIMNW42o8J0p1pq1eJAcPm8xX2FT-pOqqhe-ra6AhmlkgMUPkM6pM=
+Total=2
+RequestHeaderFile=t43_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t43_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_43.xml
+FileName2=t43_841310153.gif
+URL2=https://www.tns-counter.ru/V13b***R%3E*mail_ru/ru/UTF-8/tmsec=mail_win/841310153
+[ProtocolInfo]
+ProtocolId=QTWeb

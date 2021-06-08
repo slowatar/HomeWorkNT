@@ -1,0 +1,13 @@
+[t161]
+FileName1=t161.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/messaging-system/whats-new-panel/1/ce8561e0-20a8-4fe1-8fcd-3b14acef0960
+Total=2
+RequestHeaderFile=t161_RequestHeader.txt
+RequestBodyFile=t161_RequestBody.txt
+ResponseHeaderFile=t161_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_161.xml
+FileName2=t161_201488353.gif
+URL2=https://www.tns-counter.ru/V13b***R%3E*mail_ru/ru/UTF-8/tmsec=mail_win/201488353
+[ProtocolInfo]
+ProtocolId=QTWeb

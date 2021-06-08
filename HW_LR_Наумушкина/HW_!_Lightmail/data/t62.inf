@@ -1,0 +1,11 @@
+[t62]
+FileName1=t62.json
+URL1=https://account.mail.ru/api/v1/auth/qr/polling?token=AG_SW9TYg1vO5a627sVIPeQN&sign=aASqo51wCl7hT3VdABwFGR3xcwuZdIu4jKCU8UiTJfdvfcFeY401o6puE-ITYNEf58SA7Cb_22RRfOTbuNyPXf8=
+Total=1
+RequestHeaderFile=t62_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t62_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_62.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

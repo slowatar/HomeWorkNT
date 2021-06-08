@@ -1,0 +1,17 @@
+[t37]
+FileName1=t37.gif
+URL1=https://account.mail.ru/api/v1/utils/xray/batch?p=thirdpty&split=s10273.b1s&pgid=kphzomr6.4ys
+Total=3
+RequestHeaderFile=t37_RequestHeader.txt
+RequestBodyFile=t37_RequestBody.txt
+ResponseHeaderFile=t37_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_37.xml
+FileName2=t37_update.gif
+URL2=https://stat.radar.imgsmail.ru/update?p=login&t=bundles_loadend&v=1&i=async:1
+FileName3=t37_Domains.html
+URL3=https://portal.mail.ru/Domains?v2=1&extra=1&_=1622790702590&callback=__jp0
+[ProtocolInfo]
+ProtocolId=QTWeb

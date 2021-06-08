@@ -1,0 +1,5 @@
+"{\"experiments\":{\"bug-1690367-rollout-moving-webrtc-networking-functionality-into-i-release-"
+"87-100\":{\"branch\":\"active\"}},\"locale\":\"ru\",\"version\":\"88.0.1\",\"release_channel\""
+":\"release\",\"message_id\":\"FXA_ACCOUNTS_BADGE\",\"event\":\"IMPRESSION\",\"addon_version\":"
+"\"20210504152106\",\"client_id\":\"6f375794-79e5-4070-8b47-ae5f290622f0\",\"browser_session_id"
+"\":\"2c75f0ca-09ba-4979-96ec-4e540a500427\"}"

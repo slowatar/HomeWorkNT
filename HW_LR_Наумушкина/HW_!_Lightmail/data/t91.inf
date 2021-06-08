@@ -1,0 +1,17 @@
+[t91]
+FileName1=t91.html
+URL1=http://yandex.ocsp-responder.com/
+Total=4
+RequestHeaderFile=t91_RequestHeader.txt
+RequestBodyFile=t91_RequestBody.txt
+ResponseHeaderFile=t91_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_91.xml
+FileName2=t91_update.gif
+URL2=https://xray.mail.ru/update?p=light&t=adman&i=init:1&v=1&email=test_nt_1@mail.ru&rnd=0.3806782465093399
+FileName3=t91_update.gif
+URL3=https://mail.radar.imgsmail.ru/update?email=test_nt_1@mail.ru&p=mail&t=v3DOMReady&v=NaN&rnd=0.7695143079469592
+FileName4=t91_update.gif
+URL4=https://xray.mail.ru/update?p=light&t=route&i=sentmsgok:1&v=1&email=test_nt_1@mail.ru&rnd=0.7628860385110197
+[ProtocolInfo]
+ProtocolId=QTWeb

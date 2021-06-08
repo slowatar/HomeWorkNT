@@ -1,0 +1,13 @@
+[t143]
+FileName1=t143.gif
+URL1=https://account.mail.ru/api/v1/utils/xray/batch?p=thirdpty&split=s10273.b1s&pgid=kpgj5pys.bhk
+Total=1
+RequestHeaderFile=t143_RequestHeader.txt
+RequestBodyFile=t143_RequestBody.txt
+ResponseHeaderFile=t143_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_143.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

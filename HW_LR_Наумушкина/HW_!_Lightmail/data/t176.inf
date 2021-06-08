@@ -1,0 +1,17 @@
+[t176]
+FileName1=t176.gif
+URL1=https://top-fwz1.mail.ru/counter?js=13;id=110605;u=https%3A//light.mail.ru/messages/inbox%3Fauthid%3Dkpgj5prz.fko%26dwhsplit%3Ds10273.b1s%26from%3Dlogin;r=https%3A//account.mail.ru/;st=1622702540295;s=1920*1080;vp=1920*976;touch=0;hds=1;flash=;sid=612a2253eec82f0a;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;detect=0;lvid=1622531536446%3A1622702541182%3A190%3A80978b2cdef2874c0abc9091fc38bf0c;_=0.06211440480287511
+Total=3
+RequestHeaderFile=t176_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t176_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_176.xml
+FileName2=t176_3D899E.png
+URL2=https://r.mradx.net/img/01/3D899E.png
+FileName3=t176.html
+URL3=https://ad.mail.ru/adq/?callback=jQuery1113038834160987832167_1622702540091&q=898208&version=light&_=1622702540092
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t34]
+FileName1=t34.json
+URL1=https://account.mail.ru/api/v1/auth/qr/init?login=&page=https%3A%2F%2Faccount.mail.ru%2Flogin%3Fpage%3Dhttps%253A%252F%252Flight.mail.ru%252Fmessages%252Finbox%26allow_external%3D1&redirect=https%3A%2F%2Flight.mail.ru%2Fmessages%2Finbox%3Fauthid%3Dkphzomki.nah%26dwhsplit%3Ds10273.b1s%26from%3Dlogin&source=polling
+Total=1
+RequestHeaderFile=t34_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t34_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_34.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t46]
+FileName1=t46_changeset.json
+URL1=https://firefox.settings.services.mozilla.com/v1/buckets/security-state/collections/onecrl/changeset?_expected=1622665272229&_since=%221620319815847%22
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_46.xml
+RequestHeaderFile=t46_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t46_ResponseHeader.txt
+FileName2=t46_update.gif
+URL2=https://stat.radar.imgsmail.ru/update?p=headline&t=loading_accountMailRu&v=128349&i=domainLookup:7,connect:4719,secureConnection:109,request:9,response:105,domComplete:54390,domContentLoaded:14620,load:54390&rnd=0.3977677931627265
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t40]
+FileName1=t40.json
+URL1=https://account.mail.ru/api/v1/auth/qr/init?login=&page=https%3A%2F%2Faccount.mail.ru%2Flogin%3Fpage%3Dhttps%253A%252F%252Flight.mail.ru%252Fmessages%252Finbox%26allow_external%3D1&redirect=https%3A%2F%2Flight.mail.ru%2Fmessages%2Finbox%3Fauthid%3Dkpghr7yf.98k%26dwhsplit%3Ds10273.b1s%26from%3Dlogin&source=polling
+Total=2
+RequestHeaderFile=t40_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t40_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_40.xml
+FileName2=t40_AAC-8AELzjrTfgNKNufzxJoTRgMm1Pmf6h4zNvSY0F6h_uV6V3QrHK9RjZCZGd_J7P2VlBBghaAH8__x7nY69WkuP5E8A1qwvSi-EfbkQQzBx-k5a9AES9CVZ6k1TGDlYlFuCKB40YYhZfEsvk826lTvK3JsNhfc-xEsIIyj8DpEuPBlYfg7XWMxAAAAWfXM2nks6mh69-29plbA4BBdr1cFUVexD5ieaP-z13IBX7Fe8CmVXS43b_CJ9ujoCwSVoCwHAsNNOcL-TS49pg.gif
+URL2=https://rs.mail.ru/pixel/AAC-8AELzjrTfgNKNufzxJoTRgMm1Pmf6h4zNvSY0F6h_uV6V3QrHK9RjZCZGd_J7P2VlBBghaAH8__x7nY69WkuP5E8A1qwvSi-EfbkQQzBx-k5a9AES9CVZ6k1TGDlYlFuCKB40YYhZfEsvk826lTvK3JsNhfc-xEsIIyj8DpEuPBlYfg7XWMxAAAAWfXM2nks6mh69-29plbA4BBdr1cFUVexD5ieaP-z13IBX7Fe8CmVXS43b_CJ9ujoCwSVoCwHAsNNOcL-TS49pg.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

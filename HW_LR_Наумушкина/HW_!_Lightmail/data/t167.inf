@@ -1,0 +1,13 @@
+[t167]
+FileName1=t167.json
+URL1=https://account.mail.ru/api/v1/auth/qr/polling?token=AG_AXpy0EHGFoIj2cuMlNQYf&sign=VFPN-J4X2-kxH2uCowve0QKtl5upAMxqiRFR3-J3b6PlR-rG1pyCZRrtkMSNpwsLqX-EuDxhHzdwlltwzVUvkl0=
+Total=2
+RequestHeaderFile=t167_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t167_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_167.xml
+FileName2=t167_success.txt
+URL2=http://detectportal.firefox.com/success.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

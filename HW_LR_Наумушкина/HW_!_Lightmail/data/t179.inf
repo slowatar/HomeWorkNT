@@ -1,0 +1,17 @@
+[t179]
+FileName1=t179.gif
+URL1=https://top-fwz1.mail.ru/counter?js=13;id=2035946;u=https%3A//light.mail.ru/messages/inbox%3Fauthid%3Dkpgj5prz.fko%26dwhsplit%3Ds10273.b1s%26from%3Dlogin;r=https%3A//account.mail.ru/;st=1622702540295;s=1920*1080;vp=1920*976;touch=0;hds=1;flash=;sid=612a2253eec82f0a;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;detect=0;lvid=1622531536446%3A1622702541184%3A191%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.2942318635680109
+Total=3
+RequestHeaderFile=t179_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t179_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_179.xml
+FileName2=t179_update.gif
+URL2=https://xray.mail.ru/update?p=light&t=route&i=msglist:1&v=1&email=test_nt_1@mail.ru&rnd=0.43668169340341356
+FileName3=t179.html
+URL3=https://ad.mail.ru/adq/?callback=jQuery1113038834160987832167_1622702540093&q=898102&version=light&_=1622702540094
+[ProtocolInfo]
+ProtocolId=QTWeb

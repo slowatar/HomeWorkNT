@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Jun 2021 07:12:17 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 264
+Connection: keep-alive
+X-Mru-Json-Status: 200
+X-Mru-Request-Id: 57de0741bc
+X-Host: fau27.m.smailru.net
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: https://account.mail.ru
+Access-Control-Allow-Credentials: true
+Vary: Origin
+

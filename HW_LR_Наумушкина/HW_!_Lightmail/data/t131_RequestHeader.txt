@@ -1,0 +1,13 @@
+POST /counter?js=13;id=110605;u=https%3A//mail.ru/%3Ffrom%3Dlogout;r=https%3A//light.mail.ru/;title=Mail.ru%3A%20%D0%BF%D0%BE%D1%87%D1%82%D0%B0%2C%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B5%2C%20%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%2C%20%D0%B8%D0%B3%D1%80%D1%8B;s=1920*1080;vp=1903*976;touch=0;hds=1;flash=;sid=fbc62e9c2a697248;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;lvid=1622531536446%3A1622700327307%3A179%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.7164273908261443 HTTP/1.1
+Host: top-fwz1.mail.ru
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 0
+Origin: https://mail.ru
+Connection: keep-alive
+Referer: https://mail.ru/
+Cookie: mrcu=CE2D60B5DDCF61BFBB5A1324FC6D; p=Do8AACWvkQAA; i=AQBqcLhgAwATAAgEAXseAb0HCAQBghUBiQ0FAgEA; s=octavius=1|fver=0|ww=1920|wh=976; tmr_reqNum=179; tmr_lvid=80978b2cdef2874c0abc9091fc38bf0c; tmr_lvidTS=1622531536446; b=XEkBAAAcA/UBAQAC; VID=2vLEvU2oV6o200000U0yD4o2:::5d2c979-0-0-5d03690:CAASEGdvRLnwbVDlpoVK0P4PyWcaYEbDPrK1C7br08VE3hSeEE2m7UiuqJo_N8HEr2shj1SzYax67c91bKTYdxusmcCuWnNd9vn3keY4e-IwWRGCMMaRfnUmbot7sExA199qNVgMBwepEjRw1aAZ3Tlw0us-tA; searchuid=2383026761622531533; c=EnG4YAMAEHsTAAAkAAAAMwbZIX9cAgAI; t=obLD1AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAYDzAcA; Mpop=1619931920:5f06546f675775661905000017031f051c054f6c5150445e05190401041d455c43436e574d6700115c565c5b1b4341:test_nt_1@mail.ru:; act=c77fa60f3557454490420b99e6d05952
+

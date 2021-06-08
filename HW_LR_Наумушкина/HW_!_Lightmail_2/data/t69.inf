@@ -1,0 +1,11 @@
+[t69]
+FileName1=t69.html
+URL1=https://light.mail.ru/message/16227902031523885733/?folder=0
+Total=1
+RequestHeaderFile=t69_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t69_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_69.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

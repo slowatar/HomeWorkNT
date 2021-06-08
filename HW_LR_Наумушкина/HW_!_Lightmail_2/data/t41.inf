@@ -1,0 +1,11 @@
+[t41]
+FileName1=t41.json
+URL1=https://login.vk.com/?act=connect&app_id=7539952&response_type=silent_token&uuid=iRTyUx0n0YZY1f5zJZYa8&v=0.0.2
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_41.xml
+RequestHeaderFile=t41_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t41_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

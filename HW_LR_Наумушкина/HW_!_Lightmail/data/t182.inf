@@ -1,0 +1,13 @@
+[t182]
+FileName1=t182.html
+URL1=http://status.geotrust.com/
+Total=2
+RequestHeaderFile=t182_RequestHeader.txt
+RequestBodyFile=t182_RequestBody.txt
+ResponseHeaderFile=t182_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_182.xml
+FileName2=t182_update.gif
+URL2=https://xray.mail.ru/update?p=light&t=fmail6475&v=1&i=hit:1,dskt:1,newb:1&email=test_nt_1@mail.ru&rnd=0.699700920212817
+[ProtocolInfo]
+ProtocolId=QTWeb

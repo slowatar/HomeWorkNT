@@ -1,0 +1,1 @@
+{"status":200,"email":"test_nt_2@mail.ru","htmlencoded":false,"body":{"exists":true,"twostep":false,"can_push":false,"alt_email":false,"phone":false,"trusted":true,"available":false,"auth":"password","provider":"default","webauthn":[],"phones":[],"alt_emails":[]}}

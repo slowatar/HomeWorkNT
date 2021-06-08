@@ -1,0 +1,12 @@
+POST /submit/messaging-system/undesired-events/1/b766e40e-8009-4f4c-847e-fd07d0668105 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Content-Encoding: gzip
+Date: Thu, 03 Jun 2021 06:41:18 GMT
+Content-Length: 300
+Connection: keep-alive
+

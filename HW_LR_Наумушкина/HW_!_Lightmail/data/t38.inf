@@ -1,0 +1,15 @@
+[t38]
+FileName1=t38.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/telemetry/b6a7ef16-8538-4445-be74-8a7ff363c9af/event/Firefox/88.0.1/release/20210504152106?v=4
+Total=3
+RequestHeaderFile=t38_RequestHeader.txt
+RequestBodyFile=t38_RequestBody.txt
+ResponseHeaderFile=t38_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_38.xml
+FileName2=t38_success.txt
+URL2=http://detectportal.firefox.com/success.txt?ipv4
+FileName3=t38_Domains.html
+URL3=https://portal.mail.ru/Domains?v2=1&extra=1&_=1622700162504&callback=__jp0
+[ProtocolInfo]
+ProtocolId=QTWeb

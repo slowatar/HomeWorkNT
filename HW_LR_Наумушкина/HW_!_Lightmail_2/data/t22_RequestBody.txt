@@ -1,0 +1,4 @@
+"{\"experiments\":{},\"locale\":\"ru\",\"version\":\"89.0\",\"release_channel\":\"release\",\"e"
+"vent\":\"ASR_RS_NO_MESSAGES\",\"message_id\":\"n/a\",\"event_context\":\"whats-new-panel\",\"a"
+"ddon_version\":\"20210527174632\",\"impression_id\":\"{3d38b630-3cd6-4770-9f69-a19dd7074189}\""
+"}"

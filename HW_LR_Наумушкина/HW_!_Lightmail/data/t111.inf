@@ -1,0 +1,13 @@
+[t111]
+FileName1=t111.html
+URL1=https://cspreport.mail.ru/?v=1.0.1
+Total=2
+RequestHeaderFile=t111_RequestHeader.txt
+RequestBodyFile=t111_RequestBody.txt
+ResponseHeaderFile=t111_ResponseHeader.txt
+ContentType=application/octet-stream
+SnapshotXmlFile=snapshot_111.xml
+FileName2=t111_1.gif
+URL2=https://mc.yandex.ru/watch/142108/1?page-url=https%3A%2F%2Flight.mail.ru%2Fmessages%2Finbox%3Ffromcomposemsg%3D1&page-ref=https%3A%2F%2Flight.mail.ru%2Fcompose%2F%3Ffolder%3D0&charset=utf-8&cnt-class=1&browser-info=pv%3A1%3Aar%3A1%3Agdpr%3A14%3Avf%3A1bo6nxnn5zutxtrx%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A551%3Acn%3A1%3Adp%3A0%3Als%3A448983736298%3Ahid%3A8298454%3Az%3A180%3Ai%3A202106030905010%3Aet%3A1622700311%3Ac%3A1%3Arn%3A670452443%3Arqn%3A2%3Au%3A1622700309306886778%3Aw%3A1903x976%3As%3A1920x1080x24%3Ask%3A1%3Aeu%3A0%3Ans%3A1622700295933%3Arqnl%3A1%3Apu%3A31162736591622700309306886778%3Azzlc%3Ana%3Afip%3A0aa8960ff311d171379f7ecd0df7025a-a81f3b9bcdd80a361c14af38dc09b309-a81f3b9bcdd80a361c14af38dc09b309-4bd84c89c35a312599d807af285e7b5f-6456f00690ac9fc94dca4eb4fd6d061a-131e42c9237e3c82052c9abd4227fb0f-61b9878bbce18de73aafc8582a198c0c-a2394cfee1eb770b55e7f92fbaeda64c-a81f3b9bcdd80a361c14af38dc09b309-c6d7b47b2dcff33f80cab17f3a360d0b-2facd2c41a0047c68391f933b930bc3a%3Ati%3A2%3Ast%3A1622700311%3At%3A%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%20%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE%20-%20test_nt_1%40mail.ru%20-%20%D0%9F%D0%BE%D1%87%D1%82%D0%B0%20Mail.ru
+[ProtocolInfo]
+ProtocolId=QTWeb

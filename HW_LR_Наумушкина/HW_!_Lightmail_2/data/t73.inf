@@ -1,0 +1,13 @@
+[t73]
+FileName1=t73.html
+URL1=http://ocsp.sca1b.amazontrust.com/
+Total=2
+RequestHeaderFile=t73_RequestHeader.txt
+RequestBodyFile=t73_RequestBody.txt
+ResponseHeaderFile=t73_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_73.xml
+FileName2=t73_update.gif
+URL2=https://xray.mail.ru/update?p=light&t=adman&i=s-898208_call:1&v=1&email=test_nt_2@mail.ru&rnd=0.6464042664285581
+[ProtocolInfo]
+ProtocolId=QTWeb

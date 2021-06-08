@@ -1,0 +1,15 @@
+[t35]
+FileName1=t35_changeset.json
+URL1=https://firefox.settings.services.mozilla.com/v1/buckets/security-state/collections/cert-revocations/changeset?_expected=1622689038027&_since=%221622512645752%22
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_35.xml
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+FileName2=t35_success.txt
+URL2=http://detectportal.firefox.com/success.txt
+FileName3=t35_onecrl.content-signature.mozilla.org-2021-07-21-15-12-50.html
+URL3=https://content-signature-2.cdn.mozilla.net/chains/onecrl.content-signature.mozilla.org-2021-07-21-15-12-50.chain
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+[t80]
+FileName1=t80_142108.json
+URL1=https://an.yandex.ru/meta/142108?target-ref=https%3A%2F%2Flight.mail.ru%2Fcompose%2F%3Ffolder%3D0&page-ref=https%3A%2F%2Flight.mail.ru%2Fmessages%2Finbox%3Fauthid%3Dkpghr7yf.98k%26dwhsplit%3Ds10273.b1s%26from%3Dlogin&charset=utf-8&pcode-test-ids=363741%2C0%2C55%3B364539%2C0%2C20%3B362536%2C0%2C81%3B367340%2C0%2C59%3B356980%2C0%2C34%3B369243%2C0%2C26%3B351586%2C0%2C48%3B369110%2C0%2C32%3B369812%2C0%2C45&pcode-flags=%7B%22USE_WIDGET_FROM_PCODE%22%3Atrue%2C%22COMBO_HEADER%22%3A%22withoutHeader%22%2C%22SINGLE_CONTEXT_BLACKLIST%22%3A%5B%5D%2C%22USE_SUPERBUNDLE%22%3Atrue%2C%22USE_SMART_SSR%22%3A%221%22%2C%22SINGLE_CONTEXT%22%3Atrue%2C%22DEFAULT_SSR_FORMATS%22%3A%5B%22zen%22%2C%22zen2%22%2C%22zen2-gallery%22%2C%22billboard%22%2C%22horizontal%22%2C%22horizontal0318%22%2C%22constructor%22%2C%22modernAdaptive%22%5D%2C%22SSR_UNIFORMAT%22%3A%221%22%2C%22SSR_PERCENT_LOGGING%22%3A0.1%2C%22ADAPTIVE_TOWER_VIDEO%22%3A%22exp%22%2C%22DEFAULT_BLACKLIST_PAGES%22%3A%5B%22419507%22%2C%22419506%22%2C%22106253%22%2C%22188382%22%2C%22189903%22%5D%2C%22COMBO_PACKSHOT_EXP%22%3A%22exp%22%2C%22SMART_BANNER_CAROUSEL%22%3A%22legacy%22%2C%22CUSTOM_DOMAIN_TEXT_FLAGS%22%3A%22ctl%22%2C%22LEADERBOARD_VIDEO%22%3A%22exp%22%2C%22DISABLE_VIDEO_CONTROL%22%3A%22ctl%22%2C%22RMP_POSTER_2%22%3A%22stickyColor%22%2C%22SMART_BANNER_LAYOUT_VERSION%22%3A%22control%22%2C%22PCODEVER%22%3A%2214855%22%7D&raw-smart-content=1&smart-format-names=smart-banner-adaptive_v1%0Asmart-banner-mosaic_v1&pcode-icookie=7171949581622700283&imp-id=383&test-tag=293569604616194&ad-session-id=1774581622700287197&target-id=78793360&tga-with-creatives=1&pcode-version=14870&pcodever=14870&flash-ver=0&layout-config=%7B%22win_width%22%3A1920%2C%22win_height%22%3A976%2C%22pixel_ratio%22%3A1%2C%22bandwidth%22%3A-1%2C%22w%22%3A0%2C%22h%22%3A0%2C%22width%22%3A0%2C%22height%22%3A0%2C%22visible%22%3A1%2C%22left%22%3A0%2C%22top%22%3A0%2C%22ad_no%22%3A0%2C%22req_no%22%3A0%7D&uniformat=true&callback=Ya%5B8328011433639%5D
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_80.xml
+RequestHeaderFile=t80_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t80_ResponseHeader.txt
+FileName2=t80_update.gif
+URL2=https://xray.mail.ru/update?p=light&t=adman&i=s-898102_call:1&v=1&email=test_nt_1@mail.ru&rnd=0.5751950565040975
+FileName3=t80.html
+URL3=https://ad.mail.ru/adq/?callback=jQuery111305138408379296299_1622700255803&q=898102&version=light&_=1622700255805
+[ProtocolInfo]
+ProtocolId=QTWeb

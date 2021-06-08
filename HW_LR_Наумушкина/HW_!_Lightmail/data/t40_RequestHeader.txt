@@ -1,0 +1,12 @@
+POST /api/v1/auth/qr/init?login=&page=https%3A%2F%2Faccount.mail.ru%2Flogin%3Fpage%3Dhttps%253A%252F%252Flight.mail.ru%252Fmessages%252Finbox%26allow_external%3D1&redirect=https%3A%2F%2Flight.mail.ru%2Fmessages%2Finbox%3Fauthid%3Dkpghr7yf.98k%26dwhsplit%3Ds10273.b1s%26from%3Dlogin&source=polling HTTP/1.1
+Host: account.mail.ru
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://account.mail.ru/login?page=https%3A%2F%2Flight.mail.ru%2Fmessages%2Finbox&allow_external=1
+Origin: https://account.mail.ru
+Connection: keep-alive
+Cookie: mrcu=CE2D60B5DDCF61BFBB5A1324FC6D; p=Do8AACWvkQAA; i=AQBqcLhgAwATAAgEAXseAb0HCAQBghUBiQ0FAgH+; s=ww=1920|wh=976|fver=0|octavius=1; tmr_reqNum=147; tmr_lvid=80978b2cdef2874c0abc9091fc38bf0c; tmr_lvidTS=1622531536446; b=WkkRAKDlQBUAp72KCgEAABivW0ga96OFEYkt0REPp28U4/43CbG9ihIXvooKv72KCsnukwozAAAYV+usCxVSiwxJn1MMj+LyClmkUwwA; VID=2vLEvU2oV6o200000U0yD4o2:::5d03eaa-0-0-5d03690:CAASEBwKDeJxgRDD0UjU86nKxeIaYHHbOXqyPLXmA8zGRnt3Hw0mJmMPczvhcQ5hbEC1QzT-9EafFKx9R4_6sER_woRQHScZ2TLT92CqU8InxNcgqS8sdd-Nc1OR5SaHawgp1LhuLxtb7XGPo2agnb07lZFvig; searchuid=2383026761622531533; c=/+a1YAMAEHsTAAAkAAAAM83VeaFcAgAI; t=obLD1AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAYDzAcA; Mpop=1619765304:7f02727b047855001905000017031f051c054f6c5150445e05190401041d455c43436e574d6700115c565c5b1b4341:test_nt_1@mail.ru:; act=c77fa60f3557454490420b99e6d05952
+Content-Length: 0
+

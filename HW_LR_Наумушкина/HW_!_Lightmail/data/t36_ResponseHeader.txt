@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Thu, 03 Jun 2021 06:02:43 GMT
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: keep-alive
+Cache-Control: public, no-transform, must-revalidate, s-maxage=3600
+CF-Cache-Status: MISS
+Accept-Ranges: bytes
+cf-request-id: 0a721098aa00001490b1852000000001
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 6596b6d44be31490-DME
+

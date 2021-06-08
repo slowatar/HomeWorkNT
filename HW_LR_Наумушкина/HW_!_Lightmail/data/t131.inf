@@ -1,0 +1,17 @@
+[t131]
+FileName1=t131.gif
+URL1=https://top-fwz1.mail.ru/counter?js=13;id=110605;u=https%3A//mail.ru/%3Ffrom%3Dlogout;r=https%3A//light.mail.ru/;title=Mail.ru%3A%20%D0%BF%D0%BE%D1%87%D1%82%D0%B0%2C%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B5%2C%20%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%2C%20%D0%B8%D0%B3%D1%80%D1%8B;s=1920*1080;vp=1903*976;touch=0;hds=1;flash=;sid=fbc62e9c2a697248;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;lvid=1622531536446%3A1622700327307%3A179%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.7164273908261443
+Total=3
+RequestHeaderFile=t131_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t131_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_131.xml
+FileName2=t131_AAC-8AFgL8gD9RYcw_Rwm-b8XgwWumxNCGocv5C1GZGoiEj0nV3dDRO4tfsEUhOFUTnyBqkiDFaubGYniLjyb-VzdXJ7Xhy9nedp8gOIzhR2fYp7TYwYBnyi5pctCV8gOYoLxp8YVqI6VVPKLv1tjAxOQsUGrjV525aUhJ9pbAT4TGc62eeC9CMtAAAAJalSBzoPgHspVOjLPTuekLFNmBSPFnaw_B8h6H4OJEEgYlDI1cZDOigi5rRnYvEr.gif
+URL2=https://rs.mail.ru/pixel/AAC-8AFgL8gD9RYcw_Rwm-b8XgwWumxNCGocv5C1GZGoiEj0nV3dDRO4tfsEUhOFUTnyBqkiDFaubGYniLjyb-VzdXJ7Xhy9nedp8gOIzhR2fYp7TYwYBnyi5pctCV8gOYoLxp8YVqI6VVPKLv1tjAxOQsUGrjV525aUhJ9pbAT4TGc62eeC9CMtAAAAJalSBzoPgHspVOjLPTuekLFNmBSPFnaw_B8h6H4OJEEgYlDI1cZDOigi5rRnYvEr.gif?_=1622744859899
+FileName3=t131_un.gif
+URL3=https://rs.mail.ru/un?uniq=WggIAOVAFQABCAAB/kAVAAEIAAG8bjkBAQgAARr8dgIBCAABSBQ/AgEIAAHIFj8CAQgAAeDZdgIBCAAB8992AgE4BwE=&euniq=WwgBAPPfdgIBAZYB&rnd=379326072
+[ProtocolInfo]
+ProtocolId=QTWeb

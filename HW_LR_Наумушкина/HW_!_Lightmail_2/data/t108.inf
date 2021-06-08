@@ -1,0 +1,17 @@
+[t108]
+FileName1=t108.html
+URL1=http://ocsp.pki.goog/gts1o1
+Total=4
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=t108_RequestBody.txt
+ResponseHeaderFile=t108_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_108.xml
+FileName2=t108_update.gif
+URL2=https://xray.mail.ru/update?p=light&t=adman&i=s-898208_call:1&v=1&email=test_nt_2@mail.ru&rnd=0.8917695959503381
+FileName3=t108_update.gif
+URL3=https://xray.mail.ru/update?p=light&t=adman&i=s-898102_call:1&v=1&email=test_nt_2@mail.ru&rnd=0.26762658441643394
+FileName4=t108.html
+URL4=https://ad.mail.ru/adq/?callback=jQuery1113019895535519213525_1622790795252&q=898102&version=light&_=1622790795257
+[ProtocolInfo]
+ProtocolId=QTWeb

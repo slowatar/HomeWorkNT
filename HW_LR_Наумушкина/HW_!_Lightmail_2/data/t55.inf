@@ -1,0 +1,13 @@
+[t55]
+FileName1=t55.gif
+URL1=https://account.mail.ru/api/v1/utils/xray/batch?p=login&email=test_nt_2%40mail.ru&split=s10273.b1s&pgid=kphzomr6.4ys
+Total=1
+RequestHeaderFile=t55_RequestHeader.txt
+RequestBodyFile=t55_RequestBody.txt
+ResponseHeaderFile=t55_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_55.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

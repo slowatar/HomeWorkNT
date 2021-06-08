@@ -1,0 +1,11 @@
+[t171]
+FileName1=t171.json
+URL1=https://account.mail.ru/api/v1/auth/qr/polling?token=AG_AXpy0EHGFoIj2cuMlNQYf&sign=VFPN-J4X2-kxH2uCowve0QKtl5upAMxqiRFR3-J3b6PlR-rG1pyCZRrtkMSNpwsLqX-EuDxhHzdwlltwzVUvkl0=
+Total=1
+RequestHeaderFile=t171_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t171_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_171.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

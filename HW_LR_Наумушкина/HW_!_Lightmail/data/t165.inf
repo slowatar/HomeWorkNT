@@ -1,0 +1,11 @@
+[t165]
+FileName1=t165.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/telemetry/699d92f8-f995-499b-bd9b-f12f9c25e565/main/Firefox/88.0.1/release/20210504152106?v=4
+Total=1
+RequestHeaderFile=t165_RequestHeader.txt
+RequestBodyFile=t165_RequestBody.txt
+ResponseHeaderFile=t165_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_165.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+[t111]
+FileName1=t111_142108.json
+URL1=https://an.yandex.ru/meta/142108?imp-id=385&target-ref=https%3A%2F%2Flight.mail.ru%2Fmessage%2F16227902031523885733%2F%3Ffolder%3D0&page-ref=https%3A%2F%2Flight.mail.ru%2Fmessages%2Finbox%3Fauthid%3Dkphzomki.nah%26dwhsplit%3Ds10273.b1s%26from%3Dlogin&ad-session-id=6809121622790827040&ss-skip-token-length=30&layout-config=%7B%22win_width%22%3A1920%2C%22win_height%22%3A965%2C%22pixel_ratio%22%3A1%2C%22bandwidth%22%3A-1%2C%22w%22%3A1712.699951171875%2C%22h%22%3A0%2C%22width%22%3A1713%2C%22height%22%3A0%2C%22visible%22%3A1%2C%22left%22%3A359%2C%22top%22%3A162%2C%22req_no%22%3A0%2C%22ad_no%22%3A0%7D&test-tag=296318524981261&tga-with-creatives=1&return-widget-settings=1&yaw_ver=14875&pcodever=14875&use-server-side-rendering=1&pcode-test-ids=363741%2C0%2C50%3B370897%2C0%2C40%3B362536%2C0%2C9%3B367340%2C0%2C6%3B369240%2C0%2C64%3B351578%2C0%2C94%3B367337%2C0%2C71%3B370390%2C0%2C71&available-width=1712.699951171875&pcode-icookie=6291871641622790023
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_111.xml
+RequestHeaderFile=t111_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t111_ResponseHeader.txt
+FileName2=t111_AAC_8AGBKN-7SIxAp5o0Y6nCsoMIGx1XIdMwz8lzdGt0Q9O1nUu8qB_aX3fWQwxVBHHBXK_WZsOjKClu6BF197n-918gDFTxzlxa4b9xybYMrqs-rkegIUMwhw2tX69dxO9zL-hflPfQaiiqsszLUUiAaReT5AtJOAMfs9f2k0MCQKkkfhWHsByBAAAAH6ezIrsl-jcT_lNCBzhHKju4Jji3B7Zk8NwAweT_chQFzkYqN8zCgG66JBJKKO-3Qob0-JsPPCHs57v6Em7ZtD378ureBZTsq2n47Mp1HyZkRzUoM4WXRxdevWPxQI5vfwxTxPNhu_BTMWaMBq05-nlccCDjsatOESSfirX9-etoKmII9h6Vk2MDhTSQtOyf.gif
+URL2=https://rs.mail.ru/pixel/AAC_8AGBKN-7SIxAp5o0Y6nCsoMIGx1XIdMwz8lzdGt0Q9O1nUu8qB_aX3fWQwxVBHHBXK_WZsOjKClu6BF197n-918gDFTxzlxa4b9xybYMrqs-rkegIUMwhw2tX69dxO9zL-hflPfQaiiqsszLUUiAaReT5AtJOAMfs9f2k0MCQKkkfhWHsByBAAAAH6ezIrsl-jcT_lNCBzhHKju4Jji3B7Zk8NwAweT_chQFzkYqN8zCgG66JBJKKO-3Qob0-JsPPCHs57v6Em7ZtD378ureBZTsq2n47Mp1HyZkRzUoM4WXRxdevWPxQI5vfwxTxPNhu_BTMWaMBq05-nlccCDjsatOESSfirX9-etoKmII9h6Vk2MDhTSQtOyf.gif
+FileName3=t111_update.gif
+URL3=https://xray.mail.ru/update?p=light&t=adman-time&i=b-ff_s-898208_render:855,b-ff_s-898208_empty:855,b-ff_s-898208_trg:855,b-ff_s-898208_empty_trg:855,b-ff_s-898208_trg_lo:855,b-ff_s-898208_empty_trg_lo:855&v=1&email=test_nt_2@mail.ru&rnd=0.3568998500553715
+[ProtocolInfo]
+ProtocolId=QTWeb

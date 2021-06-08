@@ -1,0 +1,15 @@
+[t203]
+FileName1=t203.gif
+URL1=https://top-fwz1.mail.ru/counter?js=13;id=2035946;u=https%3A//light.mail.ru/compose/%3Ffolder%3D0;r=https%3A//light.mail.ru/messages/inbox%3Fauthid%3Dkpgj5prz.fko%26dwhsplit%3Ds10273.b1s%26from%3Dlogin;st=1622702564017;s=1920*1080;vp=1903*976;touch=0;hds=1;flash=;sid=94835849e3d5524e;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;detect=0;lvid=1622531536446%3A1622702564479%3A201%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.3939290994548158
+Total=2
+RequestHeaderFile=t203_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t203_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_203.xml
+FileName2=t203_AAC-8AEnU1Li4trrDeU4ppN-fhhxNebVg2V7A8zOF1l5zmbOH6X8FjzqwctTE1mdjt4G371ia2qhUmJ1ISzhwSUhD1dMhvhtkVgkp1eCRLM7AFMWMQMc0Kmm4OtKWJladwLG6mZOb9jkKg5jEnKN7ULgAA7xsEK0pnMERFBde951zutAnxkvQU41AAAAdjxTapRldawXMxJ6zbN73K8BU4gup4VBIeLwPZZ2G0XOyO4t5OwSeXUth2wt5cb3L9I6znyCO_NrBZV8FsrVGA.gif
+URL2=https://rs.mail.ru/pixel/AAC-8AEnU1Li4trrDeU4ppN-fhhxNebVg2V7A8zOF1l5zmbOH6X8FjzqwctTE1mdjt4G371ia2qhUmJ1ISzhwSUhD1dMhvhtkVgkp1eCRLM7AFMWMQMc0Kmm4OtKWJladwLG6mZOb9jkKg5jEnKN7ULgAA7xsEK0pnMERFBde951zutAnxkvQU41AAAAdjxTapRldawXMxJ6zbN73K8BU4gup4VBIeLwPZZ2G0XOyO4t5OwSeXUth2wt5cb3L9I6znyCO_NrBZV8FsrVGA.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

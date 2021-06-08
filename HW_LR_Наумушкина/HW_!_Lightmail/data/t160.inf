@@ -1,0 +1,13 @@
+[t160]
+FileName1=t160.json
+URL1=https://login.vk.com/?act=connect&app_id=7539952&response_type=silent_token&uuid=VQBF2PumsD43eYGorNc_M&v=0.0.2
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_160.xml
+RequestHeaderFile=t160_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t160_ResponseHeader.txt
+FileName2=t160_check_c_one.html
+URL2=https://img.imgsmail.ru/check_c_one.js?_=0.6580287088129563
+[ProtocolInfo]
+ProtocolId=QTWeb

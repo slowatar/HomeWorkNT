@@ -1,0 +1,13 @@
+[t1]
+FileName1=t1_cfr-v1-ru.json
+URL1=https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_1.xml
+RequestHeaderFile=t1_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t1_ResponseHeader.txt
+FileName2=t1_threatListUpdates_fetch.html
+URL2=https://safebrowsing.googleapis.com/v4/threatListUpdates_fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARDotQsaAhgGZLYp2SICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABENL4CBoCGAaED_kHIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQ-OMIGgIYBsPTFNMiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARDgswkaAhgGpgXxTyICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABEB8aAhgGQuUUOyICIAIoAQ==
+[ProtocolInfo]
+ProtocolId=QTWeb

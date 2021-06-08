@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.17.9
+Date: Thu, 03 Jun 2021 06:42:44 GMT
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: keep-alive
+Keep-Alive: timeout=5
+X-Cached: STALE
+Cache-Control: max-age=760
+

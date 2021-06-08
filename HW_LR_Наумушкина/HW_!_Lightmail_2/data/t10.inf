@@ -1,0 +1,13 @@
+[t10]
+FileName1=t10.gif
+URL1=https://top-fwz1.mail.ru/counter?js=13;id=2035946;u=https%3A//light.mail.ru/messages/inbox;st=1622790309853;s=1920*1080;vp=1920*976;touch=0;hds=1;flash=;sid=5b7c38186756a6d0;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;detect=0;lvid=1622531536446%3A1622790310918%3A279%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.965424339439177
+Total=1
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_10.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

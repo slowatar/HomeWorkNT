@@ -1,0 +1,14 @@
+POST /compose/ HTTP/1.1
+Host: light.mail.ru
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: multipart/form-data; boundary=---------------------------153042086236156071504065266663
+Content-Length: 3533
+Origin: https://light.mail.ru
+Connection: keep-alive
+Referer: https://light.mail.ru/compose/?folder=0
+Cookie: mrcu=CE2D60B5DDCF61BFBB5A1324FC6D; p=Do8AACWvkQAA; i=AQBqcLhgAwATAAgEAXseAb0HCAQBghUBiQ0FAgH+; s=octavius=1|fver=0|ww=1920|wh=976; tmr_reqNum=157; tmr_lvid=80978b2cdef2874c0abc9091fc38bf0c; tmr_lvidTS=1622531536446; b=XEkBAAAcA/UBAQAC; VID=2vLEvU2oV6o200000U0yD4o2:::5d2c979-0-0-5d03690:CAASEAQOorlSegscSCXrvHBiYiAaYEVhmfhaAgauNyskvn9z4L8aK9DhSP6zwRvKkey0HX-BcKu4wBBy-6oZglMhZNysr7vUxD7n7FmzZRQZDfaUgX_0C7RVXIp1caTb6c9qj9mO679YKO5JcJQ1LxmbiOy2bQ; searchuid=2383026761622531533; c=6nC4YAIAEHsTAAAkAAAAMwbZBAAQ; t=obLD1AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAYDzAcA; Mpop=1622700217:5f06546f675775661905000017031f051c054f6c5150445e05190401041d455c43436e574d6700115c565c5b1b4341:test_nt_1@mail.ru:; act=c77fa60f3557454490420b99e6d05952; sdcs=t2xWpInjoZFR6P14; tmr_detect=0%7C1622700263254
+Upgrade-Insecure-Requests: 1
+

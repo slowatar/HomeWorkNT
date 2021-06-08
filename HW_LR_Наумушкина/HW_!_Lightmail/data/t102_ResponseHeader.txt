@@ -1,0 +1,19 @@
+HTTP/1.1 200 Ok
+Content-Encoding: gzip
+Transfer-Encoding: chunked
+X-Yandex-Req-Id: 1622700309376940-1641455615361756692300175-production-app-host-man-pcode-12
+access-control-allow-credentials: true
+access-control-allow-origin: https://light.mail.ru
+cache-control: private, no-cache, no-store, must-revalidate, max-age=0
+content-type: application/json; charset=utf-8
+date: Thu, 03 Jun 2021 06:05:09 GMT
+expires: Thu, 03 Jun 2021 06:05:09 GMT
+last-modified: Thu, 03 Jun 2021 06:05:09 GMT
+p3p: CP="NOI DEVa TAIa OUR BUS UNI STA"
+pragma: no-cache
+set-cookie: yandexuid=5495745381622700309; domain=.yandex.ru; path=/; expires=Sun, 01-Jun-2031 06:05:09 GMT
+set-cookie: i=uc3kSXN8Xq4prHV+/ZusuA1N0qal4gyuhzRH2PI1pxk+fOQVTGMGWd3oBb7Gs9RFEO2hCXjwLRFe0uyP5Y0p9ERDnBs=; Expires=Sat, 03-Jun-2023 06:05:09 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly; SameSite=None
+strict-transport-security: max-age=31536000
+timing-allow-origin: *
+x-xss-protection: 1; mode=block
+

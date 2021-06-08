@@ -1,0 +1,13 @@
+[t244]
+FileName1=t244.json
+URL1=https://an.yandex.ru/jstracer?pcode_native=14870&values=performance&adb=false&verison=14870&bundle_version=14870&widget_pf=no
+Total=2
+RequestHeaderFile=t244_RequestHeader.txt
+RequestBodyFile=t244_RequestBody.txt
+ResponseHeaderFile=t244_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_244.xml
+FileName2=t244.gif
+URL2=https://www.tns-counter.ru/V13b****mail_ru/ru/UTF-8/tmsec=mail_win/
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,12 @@
+POST /submit/telemetry/e7b1c532-d273-4545-acfb-ce44c3303801/update/Firefox/89.0/release/20210527174632?v=4 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 04 Jun 2021 07:12:11 GMT
+Content-Encoding: gzip
+Content-Length: 2221
+Connection: keep-alive
+

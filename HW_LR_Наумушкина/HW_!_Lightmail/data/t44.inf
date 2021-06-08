@@ -1,0 +1,17 @@
+[t44]
+FileName1=t44.gif
+URL1=https://account.mail.ru/api/v1/utils/xray/batch?p=thirdpty&split=s10273.b1s&pgid=kpghrj5o.a1n
+Total=3
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=t44_RequestBody.txt
+ResponseHeaderFile=t44_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_44.xml
+FileName2=t44_check_c_one.html
+URL2=https://img.imgsmail.ru/check_c_one.js?_=0.1054233294856779
+FileName3=t44_check_c_two.html
+URL3=https://img.imgsmail.ru/check_c_two.js?_=0.5834207232869487
+[ProtocolInfo]
+ProtocolId=QTWeb

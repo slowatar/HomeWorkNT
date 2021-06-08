@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: nginx/1.14.0
+Date: Thu, 03 Jun 2021 06:05:28 GMT
+Content-Type: image/gif
+Content-Length: 43
+Connection: keep-alive
+X-Request-ID: 15855:92d842d700000001
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 604800
+Access-Control-Allow-Headers: DNT, Authorization, Origin, X-Requested-With, X-Host, X-Request-Id, Timing-Allow-Origin, Content-Type, Accept, Content-Range, Range, Keep-Alive, User-Agent, If-Modified-Since, Cache-Control
+Access-Control-Expose-Headers: Cache-Control, Content-Language, Content-Type, Expires, Last-Modified, Pragma, X-Host, X-Request-ID
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Host: is-radar17.i (183)
+Timing-Allow-Origin: *
+Cache-Control: private, no-cache, no-store, max-age=0
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+

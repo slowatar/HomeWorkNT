@@ -1,0 +1,4 @@
+"{\"experiments\":{},\"locale\":\"ru\",\"version\":\"89.0\",\"release_channel\":\"release\",\"m"
+"essage_id\":\"FXA_ACCOUNTS_BADGE\",\"event\":\"IMPRESSION\",\"addon_version\":\"20210527174632"
+"\",\"client_id\":\"6f375794-79e5-4070-8b47-ae5f290622f0\",\"browser_session_id\":\"d13646b6-3b"
+"02-4232-89bd-193e8145d9d4\"}"

@@ -1,0 +1,10 @@
+GET /meta/142108?imp-id=387&target-ref=https%3A%2F%2Flight.mail.ru%2Fmessages%2Finbox%3Ffromcomposemsg%3D1&page-ref=https%3A%2F%2Flight.mail.ru%2Fcompose%2F%3Ffolder%3D0&ad-session-id=9435551622700306926&ss-skip-token-length=30&layout-config=%7B%22win_width%22%3A1920%2C%22win_height%22%3A976%2C%22pixel_ratio%22%3A1%2C%22bandwidth%22%3A-1%2C%22w%22%3A1446.9833984375%2C%22h%22%3A0%2C%22width%22%3A1447%2C%22height%22%3A0%2C%22visible%22%3A1%2C%22left%22%3A359%2C%22top%22%3A452%2C%22req_no%22%3A0%2C%22ad_no%22%3A0%7D&test-tag=293569744601101&tga-with-creatives=1&return-widget-settings=1&yaw_ver=14870&pcodever=14870&use-server-side-rendering=1&pcode-test-ids=363741%2C0%2C73%3B364539%2C0%2C16%3B362532%2C0%2C60%3B367340%2C0%2C71%3B356980%2C0%2C46%3B369240%2C0%2C38%3B351578%2C0%2C68%3B367337%2C0%2C11%3B369812%2C0%2C99&available-width=1446.9833984375&pcode-icookie=4019394421622700307 HTTP/1.1
+Host: an.yandex.ru
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://light.mail.ru/
+Origin: https://light.mail.ru
+Connection: keep-alive
+

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 3
+Connection: keep-alive
+Last-Modified: Wed, 30 Oct 2019 08:26:45 GMT
+x-amz-version-id: null
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Thu, 03 Jun 2021 05:56:29 GMT
+Cache-Control: max-age=600
+ETag: "8a80554c91d9fca8acb82f023de02f11"
+X-Cache: Hit from cloudfront
+Via: 1.1 db89633bf3348e057f316c437d2aee7a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: HEL50-C2
+X-Amz-Cf-Id: uGhX9Q3LiFwvOOOcijqnJ3hQ9QvNR4K9QI5TRRyrU6ghCD9BcSOHPw==
+Age: 341
+

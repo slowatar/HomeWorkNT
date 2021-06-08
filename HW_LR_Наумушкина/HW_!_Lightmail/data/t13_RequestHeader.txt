@@ -1,0 +1,8 @@
+GET /6/Firefox/88.0.1/20210504152106/WINNT_x86_64-msvc/ru/release/Windows_NT%2010.0/default/default/ HTTP/1.1
+Host: snippets.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+

@@ -1,0 +1,17 @@
+[t143]
+FileName1=t143.gif
+URL1=https://top-fwz1.mail.ru/counter?js=13;id=3123969;u=https%3A//light.mail.ru/cgi-bin/movemsg;r=https%3A//light.mail.ru/message/16227901950678881342/%3Ffolder%3D0;st=1622790888320;s=1920*1080;vp=1920*965;touch=0;hds=1;flash=;sid=98fd266fd722ad2b;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;detect=0;lvid=1622531536446%3A1622790888673%3A347%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.20417286364533505
+Total=3
+RequestHeaderFile=t143_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t143_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_143.xml
+FileName2=t143_gp2hq9.gif
+URL2=https://trk.mail.ru/i/gp2hq9?mt_sub1=mail.ru&mt_campaign=newpromomail&mt_sub2=webmaillight
+FileName3=t143_b.html
+URL3=https://sb.scorecardresearch.com/b?c1=2&c2=9999305&ns__t=1622790888309&ns_c=UTF-8&c7=https%3A%2F%2Flight.mail.ru%2Fcgi-bin%2Fmovemsg&c9=https%3A%2F%2Flight.mail.ru%2Fmessage%2F16227901950678881342%2F%3Ffolder%3D0
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=125076
+Content-Type: application/ocsp-response
+Date: Thu, 03 Jun 2021 06:04:21 GMT
+Etag: "60b7b679-1d7"
+Expires: Fri, 04 Jun 2021 16:48:57 GMT
+Last-Modified: Wed, 02 Jun 2021 16:48:57 GMT
+Server: nginx
+Content-Length: 471
+

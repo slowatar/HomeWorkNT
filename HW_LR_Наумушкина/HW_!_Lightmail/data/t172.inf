@@ -1,0 +1,13 @@
+[t172]
+FileName1=t172_NaviData.json
+URL1=https://portal.mail.ru/NaviData?mac=1&gamescnt=1&Socials=1&rnd=1622702538842
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_172.xml
+RequestHeaderFile=t172_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t172_ResponseHeader.txt
+FileName2=t172_update.gif
+URL2=https://stat.radar.imgsmail.ru/update?p=headline&t=other&v=4&i=updateError:1,updateError_netError:1,updateError_accountInfo:1,updateError_netError_accountInfo:1&rlog=navidata_errors&rlog_message=netError,accountInfo,netError&rnd=0.6007782788903498
+[ProtocolInfo]
+ProtocolId=QTWeb

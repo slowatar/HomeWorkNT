@@ -1,0 +1,15 @@
+[t95]
+FileName1=t95.gif
+URL1=https://top-fwz1.mail.ru/counter?js=13;id=2035946;u=https%3A//light.mail.ru/messages/inbox%3Ffromcomposemsg%3D1;r=https%3A//light.mail.ru/compose/%3Ffolder%3D0;st=1622700304847;s=1920*1080;vp=1920*976;touch=0;hds=1;flash=;sid=bb891fac2c4e0d3c;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;detect=0;lvid=1622531536446%3A1622700305253%3A159%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.1614215626080473
+Total=2
+RequestHeaderFile=t95_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t95_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_95.xml
+FileName2=t95.html
+URL2=https://ad.mail.ru/adq/?callback=jQuery1113002543718604608003_1622700304692&q=232186&version=light&_=1622700304693
+[ProtocolInfo]
+ProtocolId=QTWeb

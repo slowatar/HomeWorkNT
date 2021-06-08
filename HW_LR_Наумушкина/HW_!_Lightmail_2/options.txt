@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner\HW_!_Lightmail_2
+-ID:\LoadRunner\include
+-ed:\loadrunner\hw_!_lightmail_2\\logfile.log
+d:\loadrunner\hw_!_lightmail_2\\combined_HW_!_Lightmail_2.c
+d:\loadrunner\hw_!_lightmail_2\\pre_cci.c

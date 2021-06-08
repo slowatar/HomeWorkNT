@@ -1,0 +1,13 @@
+[t89]
+FileName1=t89.gif
+URL1=https://top-fwz1.mail.ru/tracker?js=13;id=3206667;u=https%3A//light.mail.ru/message/16227902031523885733/%3Ffolder%3D0;r=https%3A//light.mail.ru/messages/inbox%3Fauthid%3Dkphzomki.nah%26dwhsplit%3Ds10273.b1s%26from%3Dlogin;st=1622790795431;userid=test_nt_2@mail.ru;s=1920*1080;vp=1903*965;touch=0;hds=1;flash=;sid=3f275d043ba7c53a;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;detect=0;lvid=1622531536446%3A1622790830677%3A323%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.15896112548273733;e=PVT/15
+Total=1
+RequestHeaderFile=t89_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t89_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_89.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

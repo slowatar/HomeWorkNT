@@ -1,0 +1,10 @@
+HTTP/1.0 200 Ok
+Cache-Control: no-cache
+Connection: Keep-Alive
+Content-Length: 43
+Content-Type: image/gif
+NEL: {"report_to": "network-errors", "max_age": 86400, "success_fraction": 0.001, "failure_fraction": 0.1}
+Report-To: { "group": "network-errors", "max_age": 86400, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+Set-Cookie: i=gMEfokOzhYq5SHfr+WrJv/Y1gWOAocUICUj7r+yaZZo7OW2sKd+EqxOfG8dTBMJ0nniqxCHES9qyNdh/+In9RFzET18=; Expires=Sat, 03-Jun-2023 06:05:06 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly
+X-Content-Type-Options: nosniff
+

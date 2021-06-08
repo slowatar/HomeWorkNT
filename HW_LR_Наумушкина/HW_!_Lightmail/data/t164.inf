@@ -1,0 +1,15 @@
+[t164]
+FileName1=t164.gif
+URL1=https://account.mail.ru/api/v1/utils/xray/batch?p=thirdpty&split=s10273.b1s&pgid=kpgj5pys.bhk
+Total=2
+RequestHeaderFile=t164_RequestHeader.txt
+RequestBodyFile=t164_RequestBody.txt
+ResponseHeaderFile=t164_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_164.xml
+FileName2=t164_success.txt
+URL2=http://detectportal.firefox.com/success.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t114]
+FileName1=t114.html
+URL1=http://ocsp.pki.goog/gts1o1core
+Total=2
+RequestHeaderFile=t114_RequestHeader.txt
+RequestBodyFile=t114_RequestBody.txt
+ResponseHeaderFile=t114_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_114.xml
+FileName2=t114_B23029717.gif
+URL2=https://ad.doubleclick.net/ddm/trackimp/N994946.3221185MYTARGET.COM/B23029717.297401753;dc_trk_aid=490693291;dc_trk_cid=147103486;ord=1622700306;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=-
+[ProtocolInfo]
+ProtocolId=QTWeb

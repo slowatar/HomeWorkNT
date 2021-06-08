@@ -1,0 +1,12 @@
+HTTP/1.1 200 Ok
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: POST, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Content-Length: 2
+Content-Type: application/json
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+Vary: Accept-Encoding, Origin
+X-XSS-Protection: 1; mode=block
+

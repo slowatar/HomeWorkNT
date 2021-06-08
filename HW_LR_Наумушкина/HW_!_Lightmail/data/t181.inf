@@ -1,0 +1,13 @@
+[t181]
+FileName1=t181.gif
+URL1=https://top-fwz1.mail.ru/counter?js=13;id=3210335;u=https%3A//light.mail.ru/messages/inbox%3Fauthid%3Dkpgj5prz.fko%26dwhsplit%3Ds10273.b1s%26from%3Dlogin;r=https%3A//account.mail.ru/;st=1622702540295;userid=test_nt_1@mail.ru;s=1920*1080;vp=1920*976;touch=0;hds=1;flash=;sid=612a2253eec82f0a;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=;detect=0;lvid=1622531536446%3A1622702541190%3A194%3A80978b2cdef2874c0abc9091fc38bf0c;opts=sec;_=0.12640135176822198
+Total=1
+RequestHeaderFile=t181_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t181_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_181.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

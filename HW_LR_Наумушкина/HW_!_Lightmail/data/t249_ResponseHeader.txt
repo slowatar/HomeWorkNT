@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Thu, 03 Jun 2021 06:44:05 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 54
+Connection: keep-alive
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Wed, 03 Jun 2020 06:44:05 GMT
+Last-Modified: Thu, 03 Jun 2021 09:44:05 GMT
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Credentials: true
+X-Mru-Request-Id: 3008a418
+X-Host: spf7.i.mail.ru
+
